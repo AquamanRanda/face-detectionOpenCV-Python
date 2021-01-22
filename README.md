@@ -1,5 +1,14 @@
 # face-detectionOpenCV-Python
 
+Clone the repo: 
+      
+      git clone https://github.com/AquamanRanda/face-detectionOpenCV-Python.git
+
+make sure to create 2 directories dataset and trainer
+
+      mkdir dataset
+      mkdir trainer
+
 Install OpenCv in Python - 
 
       pip install opencv-contrib-python
